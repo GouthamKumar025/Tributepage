@@ -1,0 +1,65 @@
+img{
+    display:block;
+  }
+  body{
+    font-family:Poppins,Arial;
+    margin:0;
+    background-color:lightblue;
+  }
+  #image{
+    width:250px;
+    height:auto;
+    align-items:center;
+    margin:20px auto;
+  }
+  nav{
+    background-color:black;
+    color:white;
+    padding:10px 20px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+  }
+  .nav-info{
+    display:flex;
+    align-items:center;
+  }
+  #img-caption{
+    text-align:center;
+    font-weight:bold;
+  }
+  h1{
+    text-align:center;
+  }
+  .intro{
+    width:650px;
+    margin:10px auto;
+  }
+  
+  .honour{
+    width:650px;
+    margin:10px auto;
+  }
+  .footer{
+    background-color:black;
+    text-align:center;
+    padding-bottom:20px;
+  }
+  #tribute-link{
+    text-decoration:none;
+    color:white;
+    border:solid;
+    border-radius:20px;
+    margin:10px 20px;
+    padding:4px;
+  }
+  h3{
+    color:white;
+    padding-top:24px;
+  }
+  
+  #tribute-link:hover{
+    color:black;
+    background-color:white;
+  }
+  
